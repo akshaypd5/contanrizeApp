@@ -1,6 +1,6 @@
 FROM python:3.7-alpine
 
-MAINTAINER PAVAN WANKHADE
+MAINTAINER Akshay
 
 WORKDIR /code
 
